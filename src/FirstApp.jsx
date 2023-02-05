@@ -38,7 +38,7 @@ import PropTypes from "prop-types";
   }
 //ctrl shift p para sort lines 
   FirstApp.defaultProps ={
-    name: 'Enrique Barraza!!!',
+    name: 'Enrique Barraza',
     subTitle: 'No hay subtitulo',
-    tittle:'No hay titulo',
+    //tittle:'No hay titulo',
   }
