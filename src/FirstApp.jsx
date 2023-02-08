@@ -23,8 +23,9 @@ import PropTypes from "prop-types";
 
     return (
       <>
-      <h1>{tittle}</h1>
+      <h1 data-testid="test-tittle"> {tittle} </h1> 
       {/* <code>{ JSON.stringify (newMessage) }</code> */}
+      <p>{subTitle}</p>
       <p>{subTitle}</p>
       <p>{name}</p>
       </> 
